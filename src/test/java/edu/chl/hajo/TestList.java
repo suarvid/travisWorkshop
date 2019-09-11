@@ -15,7 +15,7 @@ import org.junit.Test;
 
  */
 public class TestList {
-
+/*
     @Test
     public void testAdd() {
         List l = new List();
@@ -88,5 +88,5 @@ public class TestList {
     public void after() {
         System.out.println("After Test");
     }
-
+*/
 }
